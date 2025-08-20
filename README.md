@@ -1,2 +1,3 @@
 # MBA
-Aprender Git e Github
+Aprendendo Git e Github.
+Verificando sincronização de dados com github.
